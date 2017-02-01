@@ -1,0 +1,29 @@
+table{
+
+   width: 100%;
+
+}
+th, td{
+  border: 1px solid black;
+  height: 75px;
+}
+  .ChocChip{
+background-image: url("Images/ChocChip.jpg");
+
+}
+
+.Graham{
+background-image: url("Images/Graham.jpg");
+}
+
+.CottonCandy{
+background-image: url("Images/CottonCandy.jpg");
+}
+
+.CookiesAndCream{
+background-image: url("Images/Cream.jpg");
+}
+
+.Brownie{
+background-image: url("Images/Brownie.jpg");
+}

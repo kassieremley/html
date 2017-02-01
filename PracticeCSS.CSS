@@ -1,0 +1,35 @@
+body{
+background-image: url("Images/Circles.jpg");
+background-size: 200px 200px;
+background-repeat: no repeat;
+background-position: center;
+
+}
+
+h1{
+  color:grey;
+}
+.headerPurple{
+   color: Purple;
+}
+
+p{
+  font-size: 30px;
+  font-style: italic;
+}
+.title{
+  font-size: 30px;
+  font-style: normal;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+font-size: 30px;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
